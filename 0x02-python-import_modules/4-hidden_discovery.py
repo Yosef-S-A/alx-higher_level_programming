@@ -1,8 +1,10 @@
-if __name__ == "__main__":
-    """Print the addition of all arguments."""
-    import sys
+#!/usr/bin/python3
 
-    total = 0
-    for i in range(len(sys.argv) - 1):
-        total += int(sys.argv[i + 1])
-    print("{}".format(total))
+if __name__ == "__main__":
+    """Print all names defined by hidden_4 module."""
+    import hidden_4
+
+    names = dir(hidden_4)
+    for name in names:
+        if name[:2] != "__":
+            print(name)
