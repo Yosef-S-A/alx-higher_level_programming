@@ -8,10 +8,10 @@ const firstArgValue = parseInt(args[0]);
 if (args.length === 1) {
   console.log(0);
 }
-
-if (Number.isNaN(firstArgValue)) {
+else if (Number.isNaN(firstArgValue)) {
   console.log(0);
-} else {
+}
+else {
   args.sort(function (a, b) {
     return a - b;
   });
