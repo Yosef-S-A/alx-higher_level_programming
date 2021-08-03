@@ -13,9 +13,7 @@ if (Number.isNaN(firstArgValue)) {
   console.log(0);
 } else {
   args.sort(function (a, b) {
-    if (a > b) { return 1; }
-    if (a < b) { return -1; }
-    return 0;
+    return a - b;
   });
 
   console.log(args[args.length - 2]);
