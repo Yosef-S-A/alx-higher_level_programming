@@ -9,20 +9,16 @@ const firstArgValue = parseInt(args[0]);
 
 if (Number.isNaN(firstArgValue)) {
   console.log(1);
-} else {
-  factorial(firstArgValue);
+}
+else {
+  console.log(factorial(firstArgValue));
 }
 
-function factorial (a) {
-  result *= a;
-
-  const tmpVal = a - 1;
-
-  if (tmpVal > 1) {
-    factorial(tmpVal);
-  }
-
-  if (tmpVal === 1) {
-    console.log(result);
-  }
+function factorial (n) {
+    if (n === 0 || n === 1){
+	return 1;
+    }
+    else{
+	return n * factorial(n-1);
+    }
 }
