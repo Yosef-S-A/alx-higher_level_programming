@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script that compiles a Python script file.
+
+pycompile $PYFILE
