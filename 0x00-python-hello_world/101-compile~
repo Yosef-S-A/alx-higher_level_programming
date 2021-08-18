@@ -1,6 +1,0 @@
-#!/bin/bash
-
-var="c"
-
-$PYFILEc = "$PYFILE$var"                                                                             
-python3 $PYFILE -o $PYFILEc
