@@ -1,5 +1,2 @@
 #!/bin/bash
-# Script that compiles a Python script file.
-
-echo "Compiling $PYFILE ..."
 pycompile $PYFILE
