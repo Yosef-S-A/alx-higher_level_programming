@@ -2,7 +2,7 @@
 
 In this project, I learned using ```urllib``` and ```requests``` Python libraries to send and receive HTTP messages to URLs. I also used ```GET``` and ```POST``` requests, feetched JSON resources, and interacted with APIs (the Star Wars API, GitHub API, and Twitter API).
 
-##Tasks :clipboard:
+## Tasks :clipboard:
 
 - 0. What's my status? #0
 
