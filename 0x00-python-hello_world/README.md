@@ -40,17 +40,17 @@ Holberton School: 98
 :nine: [Easter Egg](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/9-easter_egg.py)
 + A Python script that prints "The zen of Python"
 
-:ten: [Linked list cycle](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/10-check_cycle.c)
+:keycap_ten: [Linked list cycle](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/10-check_cycle.c)
 + A C function that checks if a singly linked list has a cycle in it.
     Prototype:```int check_cycle(listint_t *list);```
 
-:eleven: [Hello, write](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)
+:one::one: [Hello, write](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)
 + A python script that prints using the ```write``` function from the ```sys``` module
 
-:twelve: [Compile](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)
+:one::two: [Compile](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/101-compile)
 + A shell script that compile a Python script file
 
-:thirteen: [Bytecode](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
+:one::three: [Bytecode](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x00-python-hello_world/102-magic_calculation.py)
 + A Python function reverse engineered from a Bytecode
 ```
  3           0 LOAD_CONST               1 (98)
