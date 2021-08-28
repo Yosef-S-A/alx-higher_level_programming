@@ -2,8 +2,11 @@
 
 
 def uppercase(str):
-    for c in str:
-        if ord('a') <= ord(c) <= ord('z'):
-            c = chr(ord(c) - (ord('a') - ord('A')))
-        print("{:s}".format(c), end='')
-    print("")
+    '''function that a string to uppercase'''
+    upper_str = ""
+    for x in str:
+        if ord('a') <= ord(x) <= ord('z'):
+            upper_str += chr(65 + (ord(x) - ord('a')))
+            else:
+                upper_str += x
+                print(upper_str)
