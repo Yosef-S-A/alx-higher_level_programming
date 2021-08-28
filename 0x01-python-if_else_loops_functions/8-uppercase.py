@@ -1,12 +1,12 @@
-#!/usr/bin/python3
+B#!/usr/bin/python3
 
 
 def uppercase(str):
-    '''function that a string to uppercase'''
+    '''function that converts a string to uppercase'''
     upper_str = ""
     for x in str:
         if ord('a') <= ord(x) <= ord('z'):
             upper_str += chr(65 + (ord(x) - ord('a')))
-            else:
-                upper_str += x
-                print(upper_str)
+        else:
+            upper_str += x
+    print(upper_str)
