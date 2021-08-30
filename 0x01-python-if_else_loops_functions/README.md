@@ -56,7 +56,7 @@ A function that prints a string in uppercse followed by a new line.
   + ```isupper``` and ```upper()``` from ```str``` module is not used
 
 
-### 9. [There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important]
+### 9. [There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/9-print_last_digit.py)
 
 A function that prints that last digit of a number.
 
@@ -97,18 +97,18 @@ C function that inserts a number into a sorted linked list.
 
     	   + [lists.h](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/lists.h)
 
-#### 14. [Smile in the mirror](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/100-print_tebahpla.py)
+### 14. [Smile in the mirror](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/100-print_tebahpla.py)
 
 A program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase.
 
-#### 15. [Remote at positoin](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/101-remove_char_at.py)
+### 15. [Remote at positoin](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/101-remove_char_at.py)
 
 A function that creats a copy of the string removing the character at the position n.
 
   + Function prototype: 
     ```def remove_char_at(str, n):```
 
-#### 16. [ByteCode -> Python #2](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/102-magic_calculation.py)
+### 16. [ByteCode -> Python #2](https://github.com/Yosef-S-A/alx-higher_level_programming/blob/main/0x01-python-if_else_loops_functions/102-magic_calculation.py)
 
 A Python function created from the following bytecode. The prototype is ``` def magic_calculation(a, b, c): ```
 
